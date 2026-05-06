@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-gharamak-oh-your-passion/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Ya Gharamak – Oh Your Passion](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
