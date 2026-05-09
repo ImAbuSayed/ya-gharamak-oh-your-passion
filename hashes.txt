@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Gharamak – Oh Your Passion
+
+This log tracks the cryptographic history and versioning for the song **Ya Gharamak – Oh Your Passion** (ya-gharamak-oh-your-passion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T11:45:16.316078 | `v1` | `b328890571ff4a0e7547e401a508284df9816a4891cac41411e2351d2bee738f` | `b328890571ff4a0e7547e401a508284df9816a4891cac41411e2351d2bee738f` | `2026-05-09_ya-gharamak-oh-your-passion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
